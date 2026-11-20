@@ -2,7 +2,7 @@
 
 把素材文件夹拖进 Codex，整理产品图片、视频和规格书。下次问“这个型号用哪张封面”或“换掉这张图会影响哪些页面”，Codex 可以直接查本地索引。
 
-**[跟着中文教程走一遍](docs/从素材到WordPress草稿.md)** · **[下载教学包 v1.0.0](https://github.com/Miraclemin/product-asset-library/releases/download/v1.0.0/product-asset-library-v1.0.0.zip)**
+**[下载离线 HTML 分步教程](https://github.com/Miraclemin/product-asset-library/releases/download/v1.0.1/wordpress-tutorial.html)** · [阅读图文版](docs/从素材到WordPress草稿.md) · **[下载教学包 v1.0.1](https://github.com/Miraclemin/product-asset-library/releases/download/v1.0.1/product-asset-library-v1.0.1.zip)**
 
 ![在用途索引里搜索 FLEX-DEMO](docs/images/asset-lookup.jpg)
 
