@@ -1,0 +1,13 @@
+[
+  {
+    "source": "产品表.csv",
+    "pointer": "第 2 行",
+    "asset": "column.jpg",
+    "site": "本机课堂站",
+    "page": "flex-demo",
+    "model": "FLEX-DEMO",
+    "slot": "产品封面",
+    "evidence": "本机课堂草稿指定 column.jpg",
+    "status": "已登记"
+  }
+]
