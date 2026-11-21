@@ -1,6 +1,6 @@
 # 从一个素材文件夹到一张 WordPress 产品草稿
 
-你收到三张 JPG 和一份产品表。要为 FLEX-DEMO 挑封面，先弄清哪张图能用，再亲眼确认它出现在产品页。下面每一步都附上可以对 Codex 说的话。[下载和安装方法](../README.md#第一次用)
+你收到三张 JPG 和一份产品表。要为 FLEX-DEMO 挑封面，先弄清哪张图能用，再亲眼确认它出现在产品页。下面每一步都附上可以对 Codex 说的话。[下载图片教学包](https://github.com/Miraclemin/product-asset-library/releases/download/v1.0.1/product-asset-library-v1.0.1.zip) · [安装为个人 Skill](../README.md#在自己的项目使用)
 
 ## 第一步　把整个来稿文件夹交给 Codex
 
